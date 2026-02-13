@@ -1,4 +1,4 @@
-# ERP Template Automation Barcode ed Unità di Misura p
+# ERP Template Automation Barcode ed Unità di Misura
 Due script R per automatizzare la compilazione dei template Panthera (per migrazione) relativi a barcode e unità di misura, a partire da estrazioni gestionali (Excel/CSV)
 
 Automazione completa della compilazione di template ERP per codici a barre e unità di misura, a partire da estrazioni gestionali e database operativi.  
