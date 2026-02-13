@@ -52,7 +52,7 @@ Tutti i file sono esportati nella cartella `/output`.
 
 ---
 
-## 📌 Note operative
+## Note operative
 
 - I file di input devono contenere le colonne attese (`Codice articolo`, `CODB_CODICE`, `UM_MIS`, `FATT_CONV`)
 - Gli script sono progettati per essere modulari e riutilizzabili
